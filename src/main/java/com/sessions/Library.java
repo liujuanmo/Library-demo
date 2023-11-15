@@ -8,6 +8,7 @@ import java.util.List;
 
 public class Library {
 
+System.out.println("hello world");
 
     private List<Book> books = new ArrayList<>();
 
